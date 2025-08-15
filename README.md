@@ -1,6 +1,12 @@
 # Demo Financial User Management
 
-## By this demo API project named Dmoney, we can create and manipulate several types of user roles like Customer, Agent and Merchant. 
+## Project Description
+
+This project automates QA testing for the Demo Financial User Management API. 
+It covers user registration, login, transactions (deposit, send money, withdraw, payment), 
+balance checks, and transaction statements using Postman. The project includes 
+test cases in standard test case format, Postman collections, Newman report, and bug report.
+
 
 ## Technology Used:
 - Postman
