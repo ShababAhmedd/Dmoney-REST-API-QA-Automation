@@ -33,7 +33,7 @@ test cases in standard test case format, Postman collections, Newman report, and
    - [View API Documentation](<paste-your-postman-doc-link-here>)
 
 2. **Newman Report Screenshots**  
-   - Screenshot 1: `<img width="835" height="830" alt="Screenshot from 2025-08-15 20-55-31" src="https://github.com/user-attachments/assets/ca9844aa-5ff8-4fd3-8394-647e6d60505c" />`   
+`<img width="835" height="830" alt="Screenshot from 2025-08-15 20-55-31" src="https://github.com/user-attachments/assets/ca9844aa-5ff8-4fd3-8394-647e6d60505c" />`   
 
 
 
