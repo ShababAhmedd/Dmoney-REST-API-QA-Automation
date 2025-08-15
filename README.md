@@ -25,7 +25,15 @@ test cases in standard test case format, Postman collections, Newman report, and
     npm i
     npm test
     ```
-  - Report will be generated in Reports folder. 
+  - Report will be generated in Reports folder.
+
+ ## Test Cases
+
+The following test cases were executed against the Demo Financial User Management API.  
+The full set of test cases can be found in the Google Sheet:
+
+[Test Cases - Demo Financial API](https://docs.google.com/spreadsheets/d/1zXOrcCn2IoJhrmlVWMmxq79rWIxcdtWyKD6dGa7BH4w/edit?usp=sharing)
+
 
 ## Postman Documentation & Newman Report
 
