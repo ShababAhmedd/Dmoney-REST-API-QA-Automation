@@ -12,7 +12,8 @@ test cases in standard test case format, Postman collections, Newman report, and
 
 - **API Testing:** Postman  
 - **Automation & Reporting:** Newman  
-- **Programming/Scripting:** JavaScript (for Postman tests)  
+- **Programming/Scripting:** JavaScript (for Postman tests)
+- **Documentation:** Postman Documentation, GitHub README  
 - **Report:** newman-html-extra
 - **Bug Tracking & Test Case:** Google Sheets  
 
