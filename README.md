@@ -17,15 +17,15 @@ test cases in standard test case format, Postman collections, Newman report, and
 - **Report:** newman-html-extra
 - **Bug Tracking & Test Case:** Google Sheets  
 
-  ## How to run
-  - clone this project
-  - collect .env from developer and put on the root folder
-  - Hit following commands:
-    ```
-    npm i
-    npm test
-    ```
-  - Report will be generated in Reports folder.
+## How to run
+- clone this project
+- collect .env from developer and put on the root folder
+- Hit following commands:
+  ```
+  npm i
+  npm test
+  ```
+- Report will be generated in Reports folder.
 
  ## Test Cases
 
