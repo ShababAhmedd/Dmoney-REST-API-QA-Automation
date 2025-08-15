@@ -9,9 +9,12 @@ test cases in standard test case format, Postman collections, Newman report, and
 
 
 ## Technology Used:
-- Postman
-- Newman
-- Report: newman-html-extra
+
+- **API Testing:** Postman  
+- **Automation & Reporting:** Newman  
+- **Programming/Scripting:** JavaScript (for Postman tests)  
+- **Report:** newman-html-extra
+- **Bug Tracking & Test Case:** Google Sheets  
 
   ## How to run
   - clone this project
