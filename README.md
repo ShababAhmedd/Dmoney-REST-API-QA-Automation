@@ -45,7 +45,7 @@ The detailed report can be found in the Google Sheet:
 ## Postman Documentation & Newman Report
 
 1. **Postman Documentation**  
-   - [View API Documentation](<paste-your-postman-doc-link-here>)
+   - [View API Documentation](https://documenter.getpostman.com/view/40120598/2sB3BHk8pR)
 
 2. **Newman Report Screenshot**  
 <img width="835" height="830" alt="Screenshot from 2025-08-15 20-55-31" src="https://github.com/user-attachments/assets/ca9844aa-5ff8-4fd3-8394-647e6d60505c" /> 
