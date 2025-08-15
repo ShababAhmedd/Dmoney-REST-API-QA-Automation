@@ -34,6 +34,13 @@ The full set of test cases can be found in the Google Sheet:
 
 [Test Cases - Demo Financial API](https://docs.google.com/spreadsheets/d/1zXOrcCn2IoJhrmlVWMmxq79rWIxcdtWyKD6dGa7BH4w/edit?usp=sharing)
 
+## Bug / Improvement Report
+
+During the testing of the Demo Financial User Management API, the following bugs and improvement suggestions were identified.  
+The detailed report can be found in the Google Sheet:
+
+[Bug & Improvement Report - Demo Financial API](https://docs.google.com/spreadsheets/d/1YgKnwNlWvqwiGds4ZgUd0eCnsgnAWCPo/edit?usp=sharing&ouid=113980249449689059622&rtpof=true&sd=true)
+
 
 ## Postman Documentation & Newman Report
 
